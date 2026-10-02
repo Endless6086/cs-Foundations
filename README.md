@@ -1,4 +1,4 @@
-# cs-Foundations# CS Foundations
+# CS Foundations
 
 這個 Repository 用來整理與補強我的資訊工程基礎能力。
 
